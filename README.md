@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ebattal5123-collab&color=red)
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=GitHub+Sayfama+Hoşgeldiniz;Projelerime+Göz+Atmayı+Unutmayın)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <h1 align="center">Hi 👋, I'm Eymen</h1>
