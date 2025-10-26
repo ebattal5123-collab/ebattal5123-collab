@@ -1,5 +1,7 @@
 [![MasterHead](https://i.hizliresim.com/r5lrbrt.png)
 ![](https://komarev.com/ghpvc/?username=ebattal5123-collab&color=red)
+<br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <h1 align="center">Hi 👋, I'm Eymen</h1>
 <h3 align="center">I am a software enthusiast living in Türkiye.</h3>
 
