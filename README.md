@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ebattal5123-collab&color=red)
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=GitHub+Sayfama+Hoşgeldiniz;Projelerime+Göz+Atmayı+Unutmayın)
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
@@ -25,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebattal5123-collab&show_icons=true&locale=en" alt="ebattal5123-collab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebattal5123-collab&" alt="ebattal5123-collab" /></p>
+
