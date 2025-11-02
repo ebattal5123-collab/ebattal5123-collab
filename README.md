@@ -12,8 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebattal5123-collab" alt="ebattal5123-collab" /></a> </p>
 
-- 🔭 I’m currently working on [mesajlaşma uygulaması](https://mesajla-ma-uygulama.onrender.com)
-- 👌 I'm working on[mesajlaşma uygulaması](https://arkada-l-ksisteiolanmesajla-mauygulamas.onrender.com)
+- 🔭 I’m currently working on [mesajlaşma uygulaması](https://mesaj-2c1b.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
