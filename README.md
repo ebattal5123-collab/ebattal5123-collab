@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebattal5123-collab" alt="ebattal5123-collab" /></a> </p>
 
 - 🔭 I’m currently working on [mesajlaşma uygulaması](https://mesaj-2c1b.onrender.com)
-
+-📖 This my CV [My](https://my-cv-icol.onrender.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@eymen-battal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@eymen-battal" height="30" width="40" /></a>
